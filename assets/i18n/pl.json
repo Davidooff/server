@@ -1,0 +1,20 @@
+{
+    "MAIN": {
+        "TEXT1": "NAJLEPSZA ",
+        "STRONG": "JAKOŚĆ ",
+        "TEXT2": "W NAJLEPSZEJ CENIE",
+        "BTN": "DO GALERII"
+    },
+    "ABOUT": {
+        "TITLE": "О nas",
+        "TEXT": "Nasza firma pragnie komfortu i bezpieczeństwa klientów. Dkzäune jest do Twojej dyspozycji. Oferujemy prostą i bezpłatną konsultację na miejscu. Firma posiada duże doświadczenie w budownictwie i rozwoju projektów. Nasi pracownicy szukają rozwiązań dla Twoich potrzeb."
+    },
+    "GALLERY": {
+        "TITLE": "Galerie",
+        "INFO1": "Wydaje się, że każde ogrodzenie zostało już stworzone dla Ciebie.",
+        "INFO2": "Wszystko dla komfortu Twojego domu"
+    },
+    "CALL":{
+        "TITLE": "Oddzwoń"
+    }
+}

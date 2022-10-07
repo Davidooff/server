@@ -1,0 +1,20 @@
+{
+    "MAIN": {
+        "TEXT1": "DIE BESTE ",
+        "STRONG": "QUALITÄT ",
+        "TEXT2": "ZUM BESTEN PREIS",
+        "BTN": "ZUR GALERIE"
+    },
+    "ABOUT": {
+        "TITLE": "Über uns",
+        "TEXT": "Unser Unternehmen möchte den Komfort und die Sicherheit der Kunden. Dkzäune steht Ihnen zur Verfügung. Wir bieten eine einfache und kostenlose Vor-Ort-Beratung. Das Unternehmen verfügt über umfangreiche Erfahrung in der Bau- und Projektentwicklung. Unsere Mitarbeiter suchen nach Lösungen für Ihre Bedürfnisse."
+    },
+    "GALLERY": {
+        "TITLE": "Galerien",
+        "INFO1": "Es fühlt sich an, als wäre jeder Zaun bereits für Sie gemacht worden.",
+        "INFO2": "Alles für den Komfort Ihres Zuhauses"
+    },
+    "CALL":{
+        "TITLE": "Ruf mich zurück"
+    }
+}
