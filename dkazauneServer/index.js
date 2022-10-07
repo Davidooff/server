@@ -30,6 +30,10 @@ function send_mail(mailOptions){
 }
 // создаем парсер для данных application/x-www-form-urlencoded
 const urlencodedParser = express.urlencoded({extended: false});
+app.get("/pl", urlencodedParser, function (request, response) {
+  return response.sendFile("D:/comerce/dkazaune/dist/server/dkazaunePL/index.html");
+});
+
 app.post("/", urlencodedParser, function (request, response) {
     if(!request.body) return response.sendStatus(400);
     console.log(request.body);
